@@ -9,8 +9,8 @@ export type RootStackParamList = {
 };
 
 export type BottomTabParamList = {
-  TabOne: undefined;
-  TabTwo: undefined;
+  "Recipe Feed": undefined;
+  "My Recipes": undefined;
 };
 
 export type TabOneParamList = {
